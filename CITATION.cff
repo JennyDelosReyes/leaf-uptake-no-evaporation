@@ -1,0 +1,20 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: >-
+  Mathematical modelling of adjuvant-enhanced active
+  ingredient leaf uptake of pesticides - Python
+  scripts
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Jenny
+    family-names: Delos Reyes
+    email: jenny.r.delosreyes@outlook.com
+    orcid: 'https://orcid.org/0000-0002-2909-8019'
+url: >-
+  https://github.com/JennyDelosReyes/math-model-leaf-uptake-no-evaporation.git
+commit: f1d737d9e73831b598718d2c643afea7022d16b3
